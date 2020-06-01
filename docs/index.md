@@ -1,36 +1,40 @@
 ---
 layout: default
-title: 1991 Kestrel 200 SC
+title: Kestrel 200 SC
 description: My Kestrel Model 200 SC road bike with Shimano Dura-Ace components.
 ---
 
-# 1991 Kestrel 200 SC
+# Kestrel 200&nbsp;SC
 
-|------------------|------|
-| **Year**         | 1991 |
-| **Make**         | Kestrel |
-| **Model**        | 200 SC |
-| **Manufacturer** | Cycle Composites, Inc., Santa Cruz County, California |
-| **Serial No.**   | [17328](images/kestrel-17328.jpg) |
-| **Frame**        | One-Piece Carbon/Spectra |
-| **Fork**         | EMS Composite |
-| **Drivetrain**   | Dura-Ace 8-speed SIS 13–26 HG 39/52 SG Round |
+|---------------------------|------|
+| **Year**                  | 1991 |
+| **Make**                  | Kestrel |
+| **Model**                 | 200 SC |
+| **Manufacturer**          | Cycle Composites, Inc., Santa Cruz County, California |
+| **Serial&nbsp;Number**    | [17328](images/kestrel-17328.jpg) |
+| **Frame**                 | One-Piece Carbon/Spectra |
+| **Fork**                  | EMS Composite |
+| **Drivetrain**            | Dura-Ace 8-speed SIS 13–26 HG 39/52 SG Round |
+
+## Pictures
+
+[![My Kestrel bicycle at the Lions Gate Bridge](images/kestrel-lion.jpg){:style="max-width: 50%;"}](images/kestrel-lion.jpg)[![My Kestrel bicycle at the garage door of The Tea House in Stanley Park](images/kestrel-door.jpg){:style="max-width: 50%;"}](images/kestrel-door.jpg)
 
 ## Components
 
-|----------------|--------------------------------------------------|
-| **Brakes**     | Shimano BR-7403 SLR-S, Dura-Ace (39–49 mm reach) |
-| **Cassette**   | Shimano CS-7401-8, Dura-Ace (Hyperglide 8-speed 13–26) |
-| **Chainrings** | Shimano Dura-Ace 7400 Series (Superglide 39/52) |
-| **Crankset**   | Shimano FC-7402, Dura-Ace (170 mm) |
-| **Derailleur** | [Shimano RD-7402](files/RD-7402.pdf), Dura-Ace (8-speed only, 4.8 mm shift) |
-| **Headset**    | Shimano HP-7400, Dura-Ace |
-| **Hubs**       | Shimano FH-7403/HB-7400, Dura-Ace (Hyperglide rear) |
-| **Pedals**     | Speedplay |
-| **Rims**       | Mavic Open Pro 622×15 Maxtal S.6000 SUP |
-| **Seatpost**   | Shimano SP-7400-B, Dura-Ace (72.5 cm saddle height) |
-| **Shifters**   | [Shimano ST-7700-C](files/ST-7700-C.pdf), Dura-Ace (9-speed [RD-7402 compatible](files/Shimano_2000_Compatibility.jpg)) |
-| **Tires**      | Continental Grand Prix 4-Season 25-622 (700×25C) 0100175 |
+|-------------------|--------------------------------------------------|
+| **Brakes**        | Shimano BR-7403 SLR-S, Dura-Ace (39–49 mm reach) |
+| **Cassette**      | Shimano CS-7401-8, Dura-Ace (Hyperglide 8-speed 13–26) |
+| **Chainrings**    | Shimano Dura-Ace 7400 Series (Superglide 39/52) |
+| **Crankset**      | Shimano FC-7402, Dura-Ace (170 mm) |
+| **Derailleur**    | [Shimano RD-7402](files/RD-7402.pdf), Dura-Ace (8-speed only, 4.8 mm shift) |
+| **Headset**       | Shimano HP-7400, Dura-Ace |
+| **Hubs**          | Shimano FH-7403/HB-7400, Dura-Ace (Hyperglide rear) |
+| **Pedals**        | Speedplay |
+| **Rims**          | Mavic Open Pro 622×15 Maxtal S.6000 SUP |
+| **Seatpost**      | Shimano SP-7400-B, Dura-Ace (72.5 cm saddle height) |
+| **Shifters**      | [Shimano ST-7700-C](files/ST-7700-C.pdf), Dura-Ace (9-speed [RD-7402 compatible](files/Shimano_2000_Compatibility.jpg)) |
+| **Tires**         | Continental Grand Prix 4-Season 25-622 (700×25C) 0100175 |
 
 The derailleur and shifter model numbers are linked to their Technical Service Instructions.
 
@@ -47,11 +51,11 @@ There you'll see a dotted line between the ST-7700-C and the RD-7402, but no lin
 
 ## Geometry
 
-|----------------|---------|
-| **Top Tube**   | 54.6 cm |
-| **Head Angle** | 73.5°   |
-| **Seat Angle** | 74.0°   |
-| **Chainstay**  | 41.0 cm |
-| **Rake**       | 4.5 cm  |
-| **Drop**       | 6.7 cm  |
-| **Trail**      | 5.1 cm  |
+|-----------------------|---------|
+| **Top&nbsp;Tube**     | 54.6 cm |
+| **Head&nbsp;Angle**   | 73.5°   |
+| **Seat&nbsp;Angle**   | 74.0°   |
+| **Chainstay**         | 41.0 cm |
+| **Rake**              | 4.5 cm  |
+| **Drop**              | 6.7 cm  |
+| **Trail**             | 5.1 cm  |
