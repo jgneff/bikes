@@ -6,31 +6,31 @@ description: My Kestrel Model 200 SC road bike with Shimano Dura-Ace components.
 
 # 1991 Kestrel 200 SC
 
-|------------------|------------------------------------------------|
-| **Year**         | 1991                                           |
-| **Make**         | Kestrel                                        |
-| **Model**        | 200 SC                                          |
-| **Manufacturer** | Cycle Composites, Inc., Santa Cruz, California |
-| **Serial No.**   | [17328](images/serial.jpg)                     |
-| **Frame**        | One-Piece Carbon/Spectra                       |
-| **Fork**         | EMS Composite                                  |
-| **Drivetrain**   | Dura-Ace 8 speed SIS 13–26 HG 39/52 SG Round   |
+|------------------|------|
+| **Year**         | 1991 |
+| **Make**         | Kestrel |
+| **Model**        | 200 SC |
+| **Manufacturer** | Cycle Composites, Inc., Santa Cruz County, California |
+| **Serial No.**   | [17328](images/kestrel-17328.jpg) |
+| **Frame**        | One-Piece Carbon/Spectra |
+| **Fork**         | EMS Composite |
+| **Drivetrain**   | Dura-Ace 8-speed SIS 13–26 HG 39/52 SG Round |
 
 ## Components
 
-|----------------|--------------------------------------------------------------|
-| **Brakes**     | Shimano BR-7403 SLR-S, Dura-Ace (Max 49 – 39 Min)            |
-| **Cassette**   | Shimano CS-7401-8, Dura-Ace HG 8 speed 13–26                 |
-| **Chainrings** | Shimano Dura-Ace 7400 39/52 SG                               |
-| **Crankset**   | Shimano FC-7402, Dura-Ace 170 mm                             |
-| **Derailleur** | [Shimano RD-7402](files/RD-7402.pdf), Dura-Ace (8 speed)     |
-| **Headset**    | Shimano HP-7400, Dura-Ace                                    |
-| **Hubs**       | Shimano FH-7403/HB-7400, Dura-Ace Integrated 8 SIS           |
-| **Pedals**     | Speedplay                                                    |
-| **Rims**       | Mavic Open Pro 622×15 Maxtal S.6000 SUP                      |
-| **Seatpost**   | Shimano SP-7400-B, Dura-Ace                                  |
-| **Shifters**   | [Shimano ST-7700-C](files/ST-7700-C.pdf), Dura-Ace (9 speed) |
-| **Tires**      | Michelin Pro Race 23-622 (700×23C)                           |
+|----------------|--------------------------------------------------|
+| **Brakes**     | Shimano BR-7403 SLR-S, Dura-Ace (39–49 mm reach) |
+| **Cassette**   | Shimano CS-7401-8, Dura-Ace (Hyperglide 8-speed 13–26) |
+| **Chainrings** | Shimano Dura-Ace 7400 Series (Superglide 39/52) |
+| **Crankset**   | Shimano FC-7402, Dura-Ace (170 mm) |
+| **Derailleur** | [Shimano RD-7402](files/RD-7402.pdf), Dura-Ace (8-speed only, 4.8 mm shift) |
+| **Headset**    | Shimano HP-7400, Dura-Ace |
+| **Hubs**       | Shimano FH-7403/HB-7400, Dura-Ace (Hyperglide rear) |
+| **Pedals**     | Speedplay |
+| **Rims**       | Mavic Open Pro 622×15 Maxtal S.6000 SUP |
+| **Seatpost**   | Shimano SP-7400-B, Dura-Ace (72.5 cm saddle height) |
+| **Shifters**   | [Shimano ST-7700-C](files/ST-7700-C.pdf), Dura-Ace (9-speed [RD-7402 compatible](files/Shimano_2000_Compatibility.jpg)) |
+| **Tires**      | Continental Grand Prix 4-Season 25-622 (700×25C) 0100175 |
 
 The derailleur and shifter model numbers are linked to their Technical Service Instructions.
 
