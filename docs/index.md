@@ -4,6 +4,8 @@ title: Kestrel 200 SC
 description: My Kestrel Model 200 SC road bike with Shimano Dura-Ace components.
 ---
 
+[![My Kestrel bicycle at the totem poles in Stanley Park](images/kestrel-totem.jpg){:width="800" height="480"}](images/kestrel-totem.jpg)
+
 # Kestrel 200&nbsp;SC
 
 |---------------------------|------|
@@ -15,8 +17,6 @@ description: My Kestrel Model 200 SC road bike with Shimano Dura-Ace components.
 | **Frame**                 | One-Piece Carbon/Spectra |
 | **Fork**                  | EMS Composite |
 | **Drivetrain**            | Dura-Ace 8-speed SIS 13–26 HG 39/52 SG Round |
-
-## Pictures
 
 [![My Kestrel bicycle at the Lions Gate Bridge](images/kestrel-lion.jpg){:style="max-width: 50%;"}](images/kestrel-lion.jpg)[![My Kestrel bicycle at the garage door of The Tea House in Stanley Park](images/kestrel-door.jpg){:style="max-width: 50%;"}](images/kestrel-door.jpg)
 
